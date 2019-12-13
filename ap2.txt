@@ -1,0 +1,200 @@
+Transaction 1
+5 8 
+Transaction 2
+10 
+Transaction 3
+2 3 5 6 9 
+Transaction 4
+2 3 4 5 6 7 8 9 
+Transaction 5
+2 3 7 8 9 10 
+Transaction 6
+2 3 4 5 6 8 9 10 
+Transaction 7
+2 3 4 8 10 
+Transaction 8
+1 2 3 4 5 6 7 8 9 10 
+Transaction 9
+1 2 3 4 5 6 8 9 10 
+Transaction 10
+1 2 3 4 5 6 7 
+Transaction 11
+1 2 3 4 5 6 7 8 9 10 
+Transaction 12
+3 9 
+Transaction 13
+1 2 3 4 6 7 9 
+Transaction 14
+10 
+Transaction 15
+2 4 6 8 9 
+Transaction 16
+1 2 7 
+Transaction 17
+1 2 7 9 10 
+Transaction 18
+1 2 4 5 6 7 8 9 10 
+Transaction 19
+1 10 
+Transaction 20
+1 2 3 4 5 6 7 8 9 10 
+Transaction 21
+1 2 3 4 5 6 7 8 9 10 
+Transaction 22
+1 2 3 4 5 6 7 8 9 10 
+Transaction 23
+1 2 3 4 5 6 7 8 9 10 
+Transaction 24
+2 3 4 5 6 7 8 9 10 
+Transaction 25
+2 3 4 5 6 7 9 
+Transaction 26
+1 2 3 4 6 7 10 
+Transaction 27
+1 3 4 5 10 
+Transaction 28
+3 4 5 7 9 10 
+Transaction 29
+1 2 3 4 5 6 8 9 10 
+Transaction 30
+1 3 4 5 6 8 9 10 
+Transaction 31
+2 3 4 6 
+Transaction 32
+2 3 6 7 
+Transaction 33
+1 4 5 6 8 
+Transaction 34
+1 2 7 8 
+Transaction 35
+1 5 6 7 9 10 
+Transaction 36
+2 7 9 
+Transaction 37
+2 5 9 10 
+Transaction 38
+1 7 8 
+Transaction 39
+8 
+Transaction 40
+6 
+Transaction 41
+3 4 5 7 8 9 10 
+Transaction 42
+4 5 6 8 9 10 
+Transaction 43
+3 
+Transaction 44
+4 7 8 
+Transaction 45
+5 6 
+Transaction 46
+3 
+Transaction 47
+1 2 4 5 7 8 9 
+Transaction 48
+1 2 3 10 
+Transaction 49
+4 
+Transaction 50
+1 2 4 5 6 7 8 9 10 
+Transaction 51
+1 4 6 
+Transaction 52
+2 3 4 6 7 8 10 
+Transaction 53
+1 2 3 4 5 6 7 8 9 10 
+Transaction 54
+1 2 4 5 6 9 10 
+Transaction 55
+4 5 7 8 
+Transaction 56
+1 2 3 4 6 8 9 
+Transaction 57
+1 3 4 7 9 
+Transaction 58
+1 3 6 9 
+Transaction 59
+1 2 3 4 6 8 9 10 
+Transaction 60
+1 2 5 6 9 
+Transaction 61
+1 2 3 4 5 6 7 8 9 10 
+Transaction 62
+2 5 6 8 
+Transaction 63
+2 3 4 5 
+Transaction 64
+1 9 10 
+Transaction 65
+1 2 4 5 6 7 8 9 
+Transaction 66
+1 2 4 7 
+Transaction 67
+1 2 3 4 5 6 7 8 9 10 
+Transaction 68
+1 2 3 4 5 6 8 9 10 
+Transaction 69
+4 
+Transaction 70
+4 8 
+Transaction 71
+10 
+Transaction 72
+2 4 6 8 9 10 
+Transaction 73
+1 2 3 4 5 7 8 9 10 
+Transaction 74
+4 5 6 7 8 9 10 
+Transaction 75
+2 3 5 6 7 9 10 
+Transaction 76
+3 4 5 7 9 10 
+Transaction 77
+2 3 4 5 6 7 
+Transaction 78
+2 3 6 7 9 
+Transaction 79
+2 
+Transaction 80
+1 2 3 5 7 8 
+Transaction 81
+3 4 7 9 
+Transaction 82
+4 5 7 
+Transaction 83
+1 2 4 5 6 7 8 9 10 
+Transaction 84
+2 3 9 10 
+Transaction 85
+1 4 5 
+Transaction 86
+2 4 10 
+Transaction 87
+1 2 3 4 5 6 8 9 10 
+Transaction 88
+5 9 
+Transaction 89
+4 10 
+Transaction 90
+1 2 5 8 9 10 
+Transaction 91
+1 2 3 4 5 6 9 10 
+Transaction 92
+1 2 3 4 5 7 8 9 10 
+Transaction 93
+1 2 4 5 6 7 8 9 10 
+Transaction 94
+9 
+Transaction 95
+1 2 3 4 5 6 7 8 9 10 
+Transaction 96
+5 10 
+Transaction 97
+2 3 4 5 6 7 
+Transaction 98
+1 2 3 4 5 7 8 9 10 
+Transaction 99
+2 3 4 5 6 9 10 
+Transaction 100
+1 2 3 4 6 7 8 9 10 
